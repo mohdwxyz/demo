@@ -1,0 +1,8 @@
+{
+    "name": "singsys/facebook",
+    "description": "this is demo",
+    "type": "laravel",
+    "license": "singsyspte",
+    "minimum-stability": "dev",
+    "require": {}
+}
